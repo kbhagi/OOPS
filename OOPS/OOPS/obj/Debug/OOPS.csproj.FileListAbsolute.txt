@@ -1,0 +1,6 @@
+C:\Projects\OOPS\OOPS\bin\Debug\OOPS.exe.config
+C:\Projects\OOPS\OOPS\bin\Debug\OOPS.exe
+C:\Projects\OOPS\OOPS\bin\Debug\OOPS.pdb
+C:\Projects\OOPS\OOPS\obj\Debug\OOPS.csprojResolveAssemblyReference.cache
+C:\Projects\OOPS\OOPS\obj\Debug\OOPS.exe
+C:\Projects\OOPS\OOPS\obj\Debug\OOPS.pdb
